@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Alex
+![Alex github stats](https://github-readme-stats.vercel.app/api?username=boychenko&show_icons=true&hide_border=true&count_private=true)
+<!--![Alex Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boychenko&layout=compact&count_private=true)-->
 <!--
 **Boychenko/boychenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
